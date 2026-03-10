@@ -31,7 +31,7 @@
 
 #gender ="male"
 
-#if# age >18 and has_id:
+#if age >18 and has_id:
  #   print("you are eligible")
 #else:
  #   print("both conditions are not valid")
